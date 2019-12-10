@@ -1,2 +1,6 @@
 new First step
+<<<<<<< HEAD
 Second step
+=======
+Second step
+>>>>>>> 0c5887c9e96ccbdfb074074e506bbd1f3287bcef
